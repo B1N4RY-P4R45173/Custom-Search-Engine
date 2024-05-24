@@ -1,5 +1,4 @@
 import os
-import sys
 from googleapiclient.discovery import build
 from getpass import getpass
 from cryptography.fernet import Fernet
