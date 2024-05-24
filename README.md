@@ -6,13 +6,29 @@ This Python script allows you to securely store and retrieve an API key for Goog
 
 To run this script, you need to have Python installed on your system.
 
-1. Clone this repository to your local machine:
+   1. Clone this repository to your local machine:
    
-   `git clone https://github.com/B1N4RY-P4R45173/ECS-LABSHEET5`
-   
-2. Install the required dependencies using pip:
+      `git clone https://github.com/B1N4RY-P4R45173/Custom-Search-Engine.git`
 
-  `pip install -r requirements.txt`
+   2. Naviage to the directory:
+
+       `cd Custom-Search-Engine`
+
+   3. Install the required dependencies using pip:
+
+       `pip install -r requirements.txt`
+
+   4. Finally run the script:
+
+      `python main.py`
+
+      If this doesn't work please try:
+
+      `python3 main.py`
+
+      And if it still doesn't work please recheck if you have latest version of python
+     
+         
 
 
 ## Usage
